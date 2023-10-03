@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "196492190056",
+    "project_id": "party-ad0d0",
+    "storage_bucket": "party-ad0d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196492190056:android:68c96c6f289fd98d6df6dd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196492190056-qo7rk9r5joma0grrk85n811q6ns72ph8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Ko6ricdW1HffdMzbVGi-FOGzNSMCBR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196492190056-qo7rk9r5joma0grrk85n811q6ns72ph8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196492190056-f1ihe1n8qcq432olvuhmd2ka1tditgrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.partyapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196492190056:android:47a89aa7b66e2d7b6df6dd",
+        "android_client_info": {
+          "package_name": "com.example.partyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196492190056-qo7rk9r5joma0grrk85n811q6ns72ph8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Ko6ricdW1HffdMzbVGi-FOGzNSMCBR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196492190056-qo7rk9r5joma0grrk85n811q6ns72ph8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "196492190056-f1ihe1n8qcq432olvuhmd2ka1tditgrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.partyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
